@@ -21,3 +21,5 @@ const addresses = [
 
 
 const decoded = addresses.map(decodeAddress);
+
+console.log(decoded)
